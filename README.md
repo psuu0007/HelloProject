@@ -5,4 +5,4 @@ This is hello project!!
 
 원격 저장소에 존재하는 것도 수정이 필요했다고 해보자
 
-공통을 건드렸다 이것을 다른 애들에게 전달하고 싶다
+Readme.md master에서 변경함
