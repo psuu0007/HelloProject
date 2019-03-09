@@ -22,7 +22,8 @@ public class MemberListServlet extends GenericServlet{
 		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;
-		
+		String test = "";
+			
 		String url = "jdbc:oracle:thin:@localhost:1521:xe";
 		String user = "psu";
 		String password = "psu";
