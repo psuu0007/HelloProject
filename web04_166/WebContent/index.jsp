@@ -12,6 +12,6 @@
 	신기하다
 	이젠 등록 못하겠네
 	
-	The Good?
+	The Good?  답변: 더조은 말하니?
 </body>
 </html>
